@@ -33,7 +33,7 @@ This project focuses on analyzing daily COVID-19 cases data to understand the sp
 ## Project Structure
 - `Task1_Global_Terrorism_Analysis.pbix`: Power BI file for Task 1 analysis
 - `Task2_COVID19_Daily_Cases_Analysis.pbix`: Power BI file for Task 2 analysis
-
+- `data/`: Folder containing datasets used in the analysis
 
 ## How to Use
 1. Clone this repository to your local machine.
@@ -41,7 +41,7 @@ This project focuses on analyzing daily COVID-19 cases data to understand the sp
 3. Explore the visualizations, slicers, and filters to interact with the data and gain insights.
 
 ## Contributors
-- [Natasha Mbasigidi](http://www.linkedin.com/in/natasha-)
+- [Your Name](link to your LinkedIn profile)
 
 ## Acknowledgments
 - This project is part of the Interncareer internship program.
